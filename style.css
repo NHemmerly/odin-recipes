@@ -9,3 +9,9 @@ body ul {
     text-align: left;
     display: inline-block;
 }
+
+.headings {
+    background-color: chocolate;
+    color: white;
+    padding: 10px;
+}
